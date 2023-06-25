@@ -26,7 +26,7 @@ Short Demo:
 
 
 
-# How to Setup and Run Mars Simulator
+# How to Setup and Play on Mars Simulator
 
 - Download and install Mars Simulator: https://courses.missouristate.edu/kenvollmar/mars/download.htm
 - run the .Jar file with a JDK installed and open the doodlejump.s file above.
@@ -45,11 +45,10 @@ Short Demo:
 - Once the display and keyboard are correctly configured as above, click the 'Assemble' button near the center of the tool bar.
 - Press the green play button, and click in the text box in the "Keyboard and Display MMIO Simulator" to start registering inputs correctly.
 - Move left and right Using keys J and K.
-- ENJOY!!
-
-  
+- Jump on platforms or white clouds to climb higher, and avoid falling down or hitting storm clouds.
+- ENJOY!! 
 
 # Notes:
-This group assignment was assigned in CSC258 in Winter 2021 Semester.
+This project was assigned in CSC258 in Winter 2021 Semester.
 Teammate: Brooklyn Guo
 
