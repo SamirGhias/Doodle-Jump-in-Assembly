@@ -1,4 +1,4 @@
-# Doodle Jump Assembly Project Overview
+# Doodle Jump Assembly Project
 In this University project, we implemented the popular mobile game Doodle Jump (https://en.wikipedia.org/wiki/Doodle_Jump) from scratch using MIPS assembly. 
 We run our implementation in a simulated environment within MARS, i.e., a simulated bitmap display and a simulated keyboard input.
 
@@ -6,7 +6,7 @@ Description:
 
 The player presses the key "j" to make the Doodler move to the left and pressed the key "k" to move to the right, When no key is pressed, the Doodler falls straight down until it hits a platform or the bottom of the screen. If it hits a platform, the Doodler bounces up high into the air, but if the Doodler hits the bottom of the screen, the game ends.
 
-Demo:
+Short Demo:
 
 <p align="center">
   <img src="https://github.com/SamirGhias/Doodle-Jump-in-Assembly/blob/main/doodlejumpMedia/demo.gif" alt="animated" />
@@ -45,4 +45,11 @@ Demo:
 - Once the display and keyboard are correctly configured as above, click the 'Assemble' button near the center of the tool bar.
 - Press the green play button, and click in the text box in the "Keyboard and Display MMIO Simulator" to start registering inputs correctly.
 - Move left and right Using keys J and K.
+- ENJOY!!
+
+  
+
+# Notes:
+This group assignment was assigned in CSC258 in Winter 2021 Semester.
+Teammate: Brooklyn Guo
 
